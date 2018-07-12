@@ -74,8 +74,8 @@ or
 
 ```npm --save-dev generate-react-ts```
 
-<br>
-## Usage
+
+##Usage
 
 ### Generate Class Component
 
