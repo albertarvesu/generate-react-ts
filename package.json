@@ -1,8 +1,12 @@
 {
   "name": "generate-react-ts",
   "description": "Generate a react typescript component or stores with CLI",
-  "version": "0.0.1",
-  "main": "index.js",
+  "version": "0.0.2",
+  "main": "cli.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/albertarvesu/generate-react-ts"
+  },
   "author": "albertarvesu <albertarvesu@gmail.com>",
   "license": "MIT",
   "bin": {
