@@ -1,0 +1,16 @@
+{
+  "name": "generate-react-ts",
+  "description": "Generate a react typescript component or stores with CLI",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "albertarvesu <albertarvesu@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "grts": "./cli.js"
+  },
+  "dependencies": {
+    "commander": "^2.16.0",
+    "fs-extra": "^6.0.1",
+    "replace-in-file": "^3.4.0"
+  }
+}

@@ -1,0 +1,9 @@
+import * as React from 'react';
+import { shallow } from 'enzyme';
+
+import { {Comp} } from './{Comp}';
+
+it('renders the <{Comp} /> without crashing', () => {
+  const wrapper = shallow(<{Comp} />);
+  expect(wrapper.type()).not.toBeNull();
+});
